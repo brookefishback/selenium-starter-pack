@@ -1,5 +1,5 @@
 ########################################################################################################################
-The purpose of this script is to walk through all steps needed to get started with selenium - installing packages, python, etc and give a very simple script that performs a task.
+The purpose of this repo is to walk through all steps needed to get started with selenium - installing packages, python, etc and give a very simple script that performs a task (opening Google Chrome).
 After walking through the README, you will have a complete set up to create your own projects and solve problems with automation.
 ########################################################################################################################
 
@@ -31,10 +31,10 @@ You'll most frequently see Python for backend web development, data analysis or 
 # Run the command below to see if PYTHON is already installed your OS
 $ python --version
 
-# The output will be 'Python 2.7.16' which confirms that Python is installed and the particular version. If there is an error, or you want to use a newer version, you can run the command below
+# The output will be 'Python X.X.XX' which confirms that Python is installed and the particular version. If there is an error, that means you need to download Python - use the command below.
 $ brew install python
 
-#If you want a specific version of python, use this format to install
+#If you want a specific version of python, use this format to install (v3, for example)
 $ brew install python3
 
 ### Install PIP
